@@ -5,3 +5,4 @@ echo $PATH
 fdisk -l
 du -h
 ifconfig
+mkdir /root/Desktop/Ravindradevops
